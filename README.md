@@ -1,6 +1,6 @@
 # Fridalebo
 
-Comunicadora visual con base en la **Ciudad de México,**
+**Comunicadora visual** con base en la Ciudad de México,
 
 especializada en *diseño editorial e identidad visual,*
 
