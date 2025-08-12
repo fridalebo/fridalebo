@@ -1,11 +1,6 @@
 # Fridalebo
 
-Mi nombre es Frida.
-Tengo 23 años y vivo en la **Ciudad de México**.
-Estoy estudiando mi séptimo semestre de la carrera de **Comunicación Visual** en la universidad Centro. 
-Mis intereses se enfocan en el diseño *editorial y fotografía*.
-Las materias que más me han gustado en la universidad han sido:
-
- - Tipografía
- - Encuadernación
- - Diseño para la transición
+Comunicadora visual con base en la Ciudad de México,
+especializada en diseño editorial e identidad visual, 
+combinando estructura, concepto y atención al detalle
+para crear propuestas claras, funcionales y con carácter.
